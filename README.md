@@ -22,24 +22,26 @@ I'm following Striver's A2Z DSA Sheet as my primary roadmap and using LeetCode t
 
 ## 📚 Topics Covered
 
-| 01 | Learn the Basics                | 🔄 In Progress |
-| 02 | Sorting Techniques              | ⬜ Not Started |
-| 03 | Arrays                          | ⬜ Not Started |
-| 04 | Binary Search                   | ⬜ Not Started |
-| 05 | Strings                         | ⬜ Not Started |
-| 06 | Linked Lists                    | ⬜ Not Started |
-| 07 | Recursion and Backtracking      | ⬜ Not Started |
-| 08 | Bit Manipulation                | ⬜ Not Started |
-| 09 | Greedy Algorithms               | ⬜ Not Started |
+| No. | Topic | Status |
+|---|---|---|
+| 01 | Learn the Basics | 🔄 In Progress |
+| 02 | Sorting Techniques | ⬜ Not Started |
+| 03 | Arrays | ⬜ Not Started |
+| 04 | Binary Search | ⬜ Not Started |
+| 05 | Strings | ⬜ Not Started |
+| 06 | Linked Lists | 🔄 Revision Pending |
+| 07 | Recursion and Backtracking | ⬜ Not Started |
+| 08 | Bit Manipulation | ⬜ Not Started |
+| 09 | Greedy Algorithms | ⬜ Not Started |
 | 10 | Sliding Window and Two Pointers | ⬜ Not Started |
-| 11 | Stack and Queues                | ⬜ Not Started |
-| 12 | Binary Trees                    | ⬜ Not Started |
-| 13 | Binary Search Trees             | ⬜ Not Started |
-| 14 | Heaps                           | ⬜ Not Started |
-| 15 | Graphs                          | ⬜ Not Started |
-| 16 | Dynamic Programming             | ⬜ Not Started |
-| 17 | Tries                           | ⬜ Not Started |
-| 18 | Advanced Strings and Maths      | ⬜ Not Started |
+| 11 | Stack and Queues | ⬜ Not Started |
+| 12 | Binary Trees | ⬜ Not Started |
+| 13 | Binary Search Trees | ⬜ Not Started |
+| 14 | Heaps | ⬜ Not Started |
+| 15 | Graphs | ⬜ Not Started |
+| 16 | Dynamic Programming | ⬜ Not Started |
+| 17 | Tries | ⬜ Not Started |
+| 18 | Advanced Strings and Maths | ⬜ Not Started |
 
 Progress is updated as I work through the roadmap.
 
